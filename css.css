@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+    height: 150px;
+    padding-top: 42px;
+    padding-left: 22px;
+    overflow: hidden;
+    background-image:url(../img/header-bg.jpg);
+    background-color: #010080;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-bottom: 3px solid #80a2df;
+    
+}
+h1{
+	font-size:20px;
+	margin-bottom:17px;
+}
+.white{
+	color:#fffbff;
+}
+#1{
+	height:480px;
+}
+#2{
+	width:180px;
+	padding-left:22px;
+	padding-top:14px;
+	background-image:url(../img/nav-bg.jpg);
+	background-repeat:repeat;
+	
+}
+#2 a{
+	height:26px;
+}
+#Co{
+	height:480px;
+}
+h2{
+	color:#F60;
+}
+#ab1{
+	color:#00F;
+	font-size:12px;
+}
+table{font-size:12px;
+}
+caption{
+	color:#03F;
+	font-size:14px;
+}
+thead{
+	font-size:14px;
+	color:#009;
+}
+#riqi{
+	width:82px;
+}
+#huodong{
+	width:196px;
+}
+#feiyong{
+	width:89px;
+}
+#lianxiren{
+	width:77px;
+}
+tbody{
+	color:#00F;
+}
+
+#foot{
+	text-align:center;
+	font-style:10px;
+	background-color:#bed8f3;
+	height:calc(100vh-630px);
+	display:flex;
+	align-content:center;
+	justify-content:center;
+	flex-direction:column;
+}
+#foot p{
+	size:13px;
+	color:#000c51;
+}
+#foot a{
+	font-weight:700;
+}
